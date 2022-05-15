@@ -5,3 +5,7 @@ Esse site foi feito acompanhando um vídeo tutorial. Este: [Create a Responsive 
 * Com esse projeto pude praticar o que estou aprendendo e o que não consegui fazer fiz conforme o vídeo :) 
 * Fiz algumas alterações usando Flexbox e nas Media Queries
 * menu hamburger sem JS
+  
+## Telas
+![header-3sections](https://raw.githubusercontent.com/Thhais/Easybank/main/telas/Screenshot_1.png)
+![articles-footer](https://raw.githubusercontent.com/Thhais/Easybank/main/telas/Screenshot_2.png)
